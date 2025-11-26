@@ -107,7 +107,7 @@ I'm a final-year **Software Engineering student at ESPRIT**, passionate about
 
 ## 📫 Contact  
 📧 **mariemtouzri5@gmail.com**  
-💼 LinkedIn: [Mariem Touzri](https://linkedin.com/in/mariem-touzri-359877312) 
+💼 LinkedIn: [Mariem Touzri](https://linkedin.com/in/mariem-touzri-359877312)  
 📍 Ariana, Tunisia  
 
 ---
