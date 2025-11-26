@@ -18,7 +18,7 @@ I'm a final-year **Software Engineering student at ESPRIT**, passionate about
 ✨ scalable full-stack development  
 ✨ modern DevOps ecosystems  
 
-💡 I love building smart, refined, user-friendly digital experiences.
+💡 I love building **smart, user-friendly digital experiences**.  
 
 🌙 My current interests:  
 **.NET 8, Angular, CQRS, Clean Architecture, NLP, DevOps Pipelines, Microservices**
@@ -86,15 +86,6 @@ I'm a final-year **Software Engineering student at ESPRIT**, passionate about
 - React + Node.js  
 - AI routing for food redistribution  
 - Eco-focused full-stack solution
-
----
-
-## 📊 GitHub Stats (Pastel Themed)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maryem001&show_icons=true&theme=dracula&icon_color=f7a8d9&title_color=f7a8d9&text_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryem001&layout=compact&theme=dracula&title_color=f7a8d9&text_color=ffffff" />
-</p>
 
 ---
 
