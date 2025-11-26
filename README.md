@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">✨ Full Stack Software Engineer ✨</h1>
-<h3 align="center">.NET • Angular • React • AI • DevOps</h3>
+<h3 align="center">Full Stack • UX/UI • DevOps • AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=F7A8D9&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Clean+Architecture+Lover;AI+%26+DevOps Enthusiast;Always+Learning+%F0%9F%8C%9A" />
